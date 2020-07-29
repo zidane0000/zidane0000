@@ -1,6 +1,8 @@
 ### Hi there , I'm Lin 👋
 
-主要開發影像辨識算法，C++，程式架構
+主要開發影像辨識算法以及程式架構
+
+language : C++
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zidane0000&theme=tokyonight)](https://github.com/zidane0000/github-readme-stats)
 <!-- &show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 -->
