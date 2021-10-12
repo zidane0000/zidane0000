@@ -1,6 +1,6 @@
 ### Hi there , I'm Lin 👋
 
-Study：fingerpint verification, Computer vision, Web deploy
+Study：Autonomous driving, fingerpint verification, Computer vision, Web deploy
 
 language : C++，Python，Node.js，ReactJs
 
