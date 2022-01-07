@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 I’m currently learning Autonomous driving
+- 🌱 I’m currently learning Multi Task Learning
 - 📫 How to reach me: zidane0917@gmail.com
 - 🥅 2022 Goals: Graduated from my master's degree
 
