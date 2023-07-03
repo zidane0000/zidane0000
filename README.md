@@ -31,21 +31,14 @@
 <br />
 
 ---
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidane0000&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zidane0000" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zidane0000&theme=tokyonight)](https://github.com/zidane0000/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=zidane0000&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="zidane0000" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidane0000&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+
+</div>
+
+
 <!-- &show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 -->
-
-<!--
-**zidane0000/zidane0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NTUT ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: zidane0917@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
