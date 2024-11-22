@@ -2,9 +2,9 @@
 
 ---
 
-- 🌱 I’m currently learning Multi Task Learning
+- 🌱 I’m a software engineer
 - 📫 How to reach me: zidane0917@gmail.com
-- 🥅 2022 Goals: Graduated from my master's degree
+- 🥅 Goals: Break out of my comfort zone
 
 ### Connect with me:
 
