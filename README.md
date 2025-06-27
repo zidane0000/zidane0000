@@ -1,41 +1,56 @@
-## Hi there , I'm Dave Lin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hi, I'm Dave Lin
+
+**Backend Engineer | Lifelong Learner**
 
 ---
 
-- 🌱 I’m a software engineer
-- 📫 How to reach me: zidane0917@gmail.com
-- 🥅 Goals: Break out of my comfort zone
+## 🚀 About Me
 
-### Connect with me:
-
-<a href='https://www.linkedin.com/in/dave-jhe-li-lin/'>
-<img style="paddin:5px;width:26px;" align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href='https://www.facebook.com/profile.php?id=100002510734342'>
-<img style="paddin:5px;width:26px;" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br />
+- **🌱 I'm a backend engineer** with 4+ years of experience building robust, scalable solutions across cloud and client environments.
+- **🎯 Goal:** Break out of my comfort zone and embrace new challenges.
 
 ---
 
-### Languages and Tools:
+## 📊 GitHub Stats
 
-<img style="paddin:5px;width:26px;" align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img style="paddin:5px;width:26px;" align="left" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img style="paddin:5px;width:26px;" align="left" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" />
-<img style="paddin:5px;width:26px;" align="left" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-<img style="paddin:5px;width:140px;" align="left" alt="pytorch" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" />
-<img style="paddin:5px;width:26px;" align="left" alt="opencv" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidane0000&layout=compact&theme=radical)
 
-<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidane0000&show_icons=true&theme=radical)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zidane0917)](https://leetcode.com/zidane0917/)
 
 ---
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zidane0000&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zidane0000" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zidane0000&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="zidane0000" />
+## 🚀 Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidane0000&theme=dark&date_format=%5BY%20%5DM%20j&mode=weekly" />
+- **[AI Mock Interview Platform – Frontend](https://github.com/zidane0000/AI_Interview_Frontend)**
+  - A React/TypeScript frontend for AI-powered mock interviews, designed for seamless user interaction.
+- **[AI Mock Interview Platform – Backend](https://github.com/zidane0000/AI_Interview_Backend)**
+  - A Go backend supporting multiple LLM providers and RESTful APIs, enabling scalable and modular interview simulations.
 
-<!-- &show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 -->
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-jhe-li-lin/)
+[![Email](https://img.shields.io/badge/Contact%20Me-3A3B3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidane0917@gmail.com)
+
+
+---
+
+## 💻 Languages & Tools
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+> **Tip:**  
+> Want to see more of my work? Check out my [GitHub repositories](https://github.com/zidane0000?tab=repositories)!
