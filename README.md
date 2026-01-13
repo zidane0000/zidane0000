@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dave Lin
+👋 Hi, I'm Dave Lin
 
 **Backend Engineer | Lifelong Learner**
 
@@ -13,9 +13,9 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidane0000&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-zeta-bay-50.vercel.app/api/top-langs/?username=zidane0000&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidane0000&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-zeta-bay-50.vercel.app/api?username=zidane0000&show_icons=true&theme=radical)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zidane0917)](https://leetcode.com/zidane0917/)
 
