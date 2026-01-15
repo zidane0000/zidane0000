@@ -22,7 +22,8 @@
 ---
 
 ## 🚀 Projects
-
+- **[AI Interview Platform](https://github.com/zidane0000/ai_interview_platform)**
+    - Full-stack AI-powered interview platform with BYOK (Bring Your Own Key) support. Monorepo combining Go backend and React/TypeScript frontend. Supports OpenAI, Gemini, Groq, and any OpenAI-compatible API.
 - **[AI Mock Interview Platform – Frontend](https://github.com/zidane0000/AI_Interview_Frontend)**
   - A React/TypeScript frontend for AI-powered mock interviews, designed for seamless user interaction.
 - **[AI Mock Interview Platform – Backend](https://github.com/zidane0000/AI_Interview_Backend)**
